@@ -1,2 +1,2 @@
-# gokselkoksal.github.io
+# [gokselkoksal.github.io](https://gokselkoksal.github.io)
 Blog
